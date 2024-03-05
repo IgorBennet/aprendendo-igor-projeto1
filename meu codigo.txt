@@ -5,3 +5,5 @@ git push > enviar codigo ao github
 git status > como se encontra o git
 git reflog > ver as versoes
 git reset --hard (area)
+git branch (nome da branch)
+git checkout staging > checa a branch
