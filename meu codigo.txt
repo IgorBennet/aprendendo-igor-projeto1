@@ -1,9 +1,10 @@
 ola esse é o meu codigo
 ola eu sou uma nova linha
-git add . > adiciona todos os novos codigos
+git add . > Atualiza
 git push > enviar codigo ao github
 git status > como se encontra o git
 git reflog > ver as versoes
 git reset --hard (area)
 git branch (nome da branch)
 git checkout staging > checa a branch
+git merge (staging) >coloca na branch principal a branch de terceira
