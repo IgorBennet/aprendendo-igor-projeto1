@@ -8,3 +8,4 @@ git reset --hard (area)
 git branch (nome da branch)
 git checkout staging > checa a branch
 git merge (staging) >coloca na branch principal a branch de terceira
+git pull (fica na versao mais atual)
